@@ -9,7 +9,7 @@
 
 html {
   scroll-behavior: smooth; /*efeito de suavidade ao escrolar a página para baixo*/
-  overflow: hidden; /*nao deixa aparecer a barra horizontal na parte de baixo se caso os conteúdos exceder*/
+  /*overflow: hidden; - nao deixa aparecer a barra horizontal na parte de baixo se caso os conteúdos exceder*/
 }
 
 header {
